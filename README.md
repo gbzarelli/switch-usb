@@ -4,5 +4,5 @@ This project is easy switch USB created with the inspiration of swapping the wir
 
 [V1] Fallow the first version schematics:
 
-<img src="images/schematics_v1.png" width="450"/>
+<img src="images/schematics_v1.1.png" width="450"/>
 
